@@ -25,4 +25,3 @@ storage/api-docs
 # Package manager history (you can delete it for your own project)
 yarn.lock
 package-lock.json
-composer.lock
